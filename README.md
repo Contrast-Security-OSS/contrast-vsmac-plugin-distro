@@ -4,7 +4,7 @@ Click the [releases](https://github.com/Contrast-Security-OSS/contrast-vsmac-plu
 
 ## Installation
 
-* Download the [release](https://github.com/Contrast-Security-OSS/contrast-vsmac-plugin-distro/releases) of your choice.
+* Download the latest .mpack file from the [releases](https://github.com/Contrast-Security-OSS/contrast-vsmac-plugin-distro/releases).
 * Open Visual Studio for Mac
 * Click Visual Studio -> Extensions...
 * Click "Install from file..."
